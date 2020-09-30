@@ -1,6 +1,5 @@
 
-
-
+from utils import *
 
 def check(seq):
     tmp_seq = seq.upper()
