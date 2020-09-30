@@ -22,4 +22,4 @@ def rev_comlplement(seq):
     return ''.join([nucleotides_complement[nuc] for nuc in seq][::-1])
 
 def GC_content(seq):
-    return (seq.count('C') + seq.count('G')) / len(seq) * 100
+    return round((seq.count('C') + seq.count('G')) / len(seq) * 100, 6)
