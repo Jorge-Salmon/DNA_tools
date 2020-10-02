@@ -23,3 +23,6 @@ def rev_comlplement(seq):
 
 def GC_content(seq):
     return round((seq.count('C') + seq.count('G')) / len(seq) * 100, 6)
+
+def translate(seq, start_position=0):
+    return [DNA_Codons[seq[pos:pos+3]] for pos in range(start_position, len(seq) - 2, 3)]
