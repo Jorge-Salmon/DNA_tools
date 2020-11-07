@@ -15,7 +15,7 @@ DNA_Codons = {
     "ATA": "I", "ATT": "I", "ATC": "I",
     "AAA": "K", "AAG": "K",
     "TTA": "L", "TTG": "L", "CTT": "L", "CTC": "L", "CTA": "L", "CTG": "L",
-    "ATG": "M",
+    "ATG": "",
     "AAT": "N", "AAC": "N",
     "CCT": "P", "CCC": "P", "CCA": "P", "CCG": "P",
     "CAA": "Q", "CAG": "Q",
