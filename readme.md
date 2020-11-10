@@ -2,7 +2,7 @@
 
 DNA tools for Bioinformatics
 
-double_helix            - Functions operating on DNA and RNA sequences.
+double_helix            - Main module. double_helix class with methods operating on DNA and RNA sequences.
 
 double_helix_structures - Definitions for nucleotides, RNA codons and DNA codons.
 
