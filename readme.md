@@ -1,6 +1,6 @@
 # double_helix 
 
-DNA tools for Bioinformatics
+Tools for Bioinformatics
 
 double_helix            - Main module. double_helix class with methods operating on DNA and RNA sequences.
 
