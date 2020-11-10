@@ -1,5 +1,9 @@
-# DNA tools for Bioinformatics
+# double_helix 
 
-dna_tools.py - Functions operating on DNA sequences.
+DNA tools for Bioinformatics
 
-utils.py     - Utilities (dictionaries and definitions)
+double_helix            - Functions operating on DNA and RNA sequences.
+
+double_helix_structures - Definitions for nucleotides, RNA codons and DNA codons.
+
+utils.py                - Read FASTA file, read and write .txt functions.
