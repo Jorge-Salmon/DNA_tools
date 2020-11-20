@@ -1,5 +1,5 @@
 # double_helix 
-
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/python?style=plastic">
 Tools for Bioinformatics
 
 double_helix            - Main module. double_helix class with methods operating on DNA and RNA sequences.
